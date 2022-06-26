@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Robotics and Double optical laser calibration
-- 🌱 I’m currently learning Microinformatics // java
+- 🌱 I’m currently technician Microinformatics
+- 🌱 I'm currently learning Software engineer // FP DAM + engineering
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
